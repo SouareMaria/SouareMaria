@@ -18,7 +18,11 @@ Je suis analyste de données et je me passionne pour aider les entreprises à do
 
 Je m'attache notamment à créer des tableaux de bord qui soient réellement utilisés, à automatiser les tâches répétitives afin de permettre aux équipes de se consacrer à des problèmes plus intéressants, et à élaborer des modèles qui aident les entreprises à planifier leur avenir.
 
-Quand je ne travaille pas sur des données, j'aime [votre passe-temps ou votre passion, par exemple créer du contenu, faire de la randonnée, encadrer d'autres personnes, etc.]. J'adore ces moments de révélation où les données révèlent quelque chose de nouveau et d'utile.
+Quand je ne travaille pas sur les données, j’aime explorer de nouvelles idées à travers la lecture et la veille technologique. Je suis curieux des innovations qui transforment notre manière de comprendre le monde et d’utiliser la technologie.
+
+Je m’intéresse également à l’art oratoire et à la communication, des domaines que je cherche à développer continuellement. Pour moi, un bon Data Analyst ne doit pas seulement savoir analyser des données, mais aussi être capable de transmettre ses découvertes de manière claire et pertinente.
+
+Ce que j’apprécie particulièrement dans la data, ce sont ces moments où les chiffres révèlent des tendances inattendues, transforment une information brute en connaissance et permettent de prendre de meilleures décisions.
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
