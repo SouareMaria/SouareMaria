@@ -45,31 +45,25 @@ Ce que j’apprécie particulièrement dans la data, ce sont ces moments où les
 
 ## 🛠️  Compétences techniques
 
-Excel Avancé
-Power BI / Tableau
-Power query
-Power pivot
-
-
 #### Data Analysis & Visualisation
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Avancé-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Intermediare-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
 ####  Programmation et automatisation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediare-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/R-Débutante-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
 #### Business Intelligence et analyse de données
 <p>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Visualization-Projects-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/Dashboard%20Design-Projects-FF9800?style=flat">
+  <img src="https://img.shields.io/badge/Excel-Avancé-217346?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Visualisation-Projets-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/Dashboard%20Design-Projets-FF9800?style=flat">
   <img src="https://img.shields.io/badge/Business%20Analysis-Learning-3F51B5?style=flat">
 </p>
