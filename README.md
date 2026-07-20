@@ -36,16 +36,20 @@ Ce que j’apprécie particulièrement dans la data, ce sont ces moments où les
 
 ## 🌱 En cours d'apprentissage 
 
-✔ Python for Data Analysis
-✔ SQL
-✔ Power BI
-✔ Machine Learning Fundamentals
-✔ Business Intelligence
-✔ Market Intelligence
+1️⃣ Python for Data Analysis
+2️⃣ SQL Avancé
+3️⃣ Power BI Expert
+4️⃣ Machine Learning Fundamentals 
+5️⃣ Business Intelligence
+6️⃣ Market Intelligence
 
 ## 🛠️  Compétences techniques
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+Excel Avancé
+Power BI / Tableau
+Power query
+Power pivot
+
 
 #### Data Analysis & Visualisation
 <p>
@@ -63,7 +67,7 @@ Ce que j’apprécie particulièrement dans la data, ce sont ces moments où les
 </p>
 
 #### Business Intelligence et analyse de données
-<<p>
+<p>
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Data%20Visualization-Projects-4ECDC4?style=flat">
   <img src="https://img.shields.io/badge/Dashboard%20Design-Projects-FF9800?style=flat">
