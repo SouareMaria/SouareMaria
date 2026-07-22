@@ -109,9 +109,9 @@ Startup développant une application permettant d'améliorer la communication en
 
 ---
 
-## 📊 Medical Data Analysis (Python) *(À venir)*
+## 📈 HR Analytics Dashboard *(À venir)*
 
-Analyse exploratoire de données de santé.
+Employee performance analysis and HR KPIs.
 
 ---
 
