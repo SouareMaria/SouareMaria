@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Mariame SOUARE
+# 👋 Bonjour, je suis Mariame SOUARÉ
 
 <div align="center">
 
