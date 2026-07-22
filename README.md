@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Mariame SOUARE
+# 👋 Bonjour, je suis Mariame SOUARE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Business+Intelligence;Transformer+les+donn%C3%A9es+en+d%C3%A9cisions;Turning+Data+into+Business+Insights" alt="Typing SVG"/>
 
 </div>
 
@@ -23,193 +23,205 @@
 
 ---
 
-# 🚀 About Me
+# 🇫🇷 À propos de moi
+
+Passionnée par **l'analyse de données**, la **Business Intelligence** et **l'intelligence économique**, je développe mes compétences à travers des projets concrets en **Excel, SQL, Power BI, Python, R et SAS**.
+
+Diplômée d'un **Master 1 Stratégies Économiques, Numérique et Données (SEND)** au CNAM, je construis progressivement mon expertise en réalisant des projets de Data Analytics et de Business Intelligence.
+
+Mon objectif est de transformer des données en informations utiles afin d'aider les organisations à prendre des décisions éclairées.
+
+J'accorde une grande importance à la qualité des analyses, à la visualisation des données et à la compréhension des enjeux métiers derrière les chiffres.
+
+---
+
+# 🇬🇧 About Me
 
 I am passionate about **Data Analytics**, **Business Intelligence**, and **Market Intelligence**.
 
-After completing a **Master's Degree (M1) in Economic Strategies, Digital Technologies & Data (SEND)** at CNAM, I am continuously developing my skills through hands-on projects and real-world datasets.
+I completed a **Master's Degree (M1) in Economic Strategies, Digital Technologies & Data** and continuously strengthen my skills through hands-on projects using **Excel, SQL, Power BI, Python, R and SAS**.
 
-I enjoy transforming raw data into meaningful insights, designing interactive dashboards, and helping organizations make informed, data-driven decisions.
-
-My background in **Web Development** also allows me to combine technical expertise with analytical thinking, giving me a broader understanding of digital projects.
+My goal is to transform data into meaningful insights that support better business decisions.
 
 ---
 
-# 🎓 Education
+# 🎓 Formation
 
-### Master's Degree (M1)
-**Economic Strategies, Digital Technologies & Data (SEND)**
+## Master 1 — Stratégies Économiques, Numérique et Données (CNAM)
 
-Relevant coursework:
+### Enseignements principaux
 
-- Statistics with **R & SAS**
+- Statistiques avec **R & SAS**
 - Data Mining (SAS)
-- Data Visualization
-- Market Research
-- Business Strategy
-- Game Theory
-- Digital Economy
-- Business Organization
+- Datavisualisation
+- Études de marché
+- Théorie des jeux
+- Économie numérique
+- Analyse stratégique
+- Management des organisations
 
 ---
 
-# 💼 Professional Experience
+# 💼 Expérience professionnelle
 
-### Web Developer Intern — AALIA.TECH
+## Développeuse Web — AALIA.TECH
 
-Startup developing a healthcare application designed to improve communication between patients and healthcare professionals speaking different languages.
+Startup développant une application permettant d'améliorer la communication entre les patients et les professionnels de santé ne parlant pas la même langue.
 
-Main contributions:
+### Missions
 
-- Modernized a web application using **React**
-- Improved user interface and user experience
-- Performed functional testing and bug fixing
-- Worked in an Agile (Scrum) environment
-- Collaborated with the development team throughout the project
+- Développement d'interfaces avec React
+- Refonte d'une application web
+- Amélioration de l'expérience utilisateur
+- Tests fonctionnels
+- Correction d'anomalies
+- Travail en méthode Agile (Scrum)
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Projets
 
 ## 📊 Sales Performance Dashboard (Excel)
 
-Interactive dashboard built using:
+✔ Nettoyage des données
 
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- KPIs
-- Business Insights
-- Data Cleaning
+✔ Tableaux Croisés Dynamiques
 
----
+✔ Power Query
 
-## 📦 Logistics Dashboard (Excel)
+✔ KPIs
 
-Interactive dashboard analyzing:
+✔ Dashboard interactif
 
-- Shipping performance
-- Transportation costs
-- Delivery status
-- Operational KPIs
+✔ Recommandations stratégiques
 
 ---
 
-## 📈 HR Analytics Dashboard *(Coming Soon)*
+## 🚚 Logistics Dashboard (Excel)
 
-Employee performance analysis and HR KPIs.
+✔ Analyse logistique
 
----
+✔ Coût des expéditions
 
-## 📊 Power BI Dashboards *(Coming Soon)*
+✔ Délais de livraison
 
-Interactive dashboards for business decision-making.
-
----
-
-## 🐍 Python Data Analysis *(Coming Soon)*
-
-Exploratory Data Analysis with Pandas, NumPy and Matplotlib.
+✔ Performance opérationnelle
 
 ---
 
-## 🗄 SQL Projects *(Coming Soon)*
+## 📊 Medical Data Analysis (Python) *(À venir)*
 
-Business queries, reporting and database analysis.
+Analyse exploratoire de données de santé.
 
 ---
 
-# 🛠 Technical Skills
+## 📈 Power BI Dashboards *(À venir)*
 
-## 📊 Data Analytics
+Création de tableaux de bord interactifs.
+
+---
+
+## 🗄 SQL Projects *(À venir)*
+
+Analyse de bases de données et reporting.
+
+---
+
+# 🛠 Compétences
+
+### Data Analytics
 
 <p>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
 
-<img src="https://img.shields.io/badge/SAS-0066CC?style=for-the-badge">
+<img src="https://img.shields.io/badge/SAS-0066CC?style=flat">
 
 </p>
 
 ---
 
-## 📈 Business Intelligence
+### Business Intelligence
 
 - Dashboard Design
 - Data Visualization
 - Data Cleaning
 - KPI Analysis
+- Reporting
 - Business Analysis
 - Market Intelligence
-- Reporting
 
 ---
 
-## 💻 Development
+### Développement
 
 <p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 En apprentissage
 
-- Advanced SQL
-- Power BI
 - Python for Data Analysis
-- Machine Learning Fundamentals
+- SQL avancé
+- Power BI
+- Machine Learning
 - Business Intelligence
 - Market Intelligence
 
 ---
 
-# 📌 What You'll Find Here
+# 📂 Ce que vous trouverez sur ce GitHub
 
-This GitHub showcases my journey as a Data Analyst through:
+📊 Dashboards Excel
 
-- 📊 Interactive Dashboards
-- 📈 Business Analysis Projects
-- 🗄 SQL Queries
-- 🐍 Python Projects
-- 📉 Data Visualization
-- 📚 Academic Projects
-- 📄 Technical Documentation
+📈 Dashboards Power BI
 
----
+🐍 Analyses de données Python
 
-# 📫 Let's Connect
+🗄 Requêtes SQL
 
-💼 LinkedIn
+📉 Visualisations de données
 
-➡️ https://www.linkedin.com/in/mariame-souare/
+📚 Projets académiques
 
-📧 Email
-
-➡️ swaray.kmariame@gmail.com
-
-🌐 Portfolio
-
-➡️ https://souaremaria.github.io/
+📄 Documentation technique
 
 ---
 
-> **"Turning data into meaningful insights to support better decisions."**
+# 📫 Me contacter
+
+📧 **Email**
+
+**swaray.kmariame@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/mariame-souare/
+
+🌐 **Portfolio**
+
+https://souaremaria.github.io/
+
+---
+
+> **"Turning data into meaningful insights for better business decisions."**
